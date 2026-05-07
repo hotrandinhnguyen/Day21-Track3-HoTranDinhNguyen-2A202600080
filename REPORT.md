@@ -2,7 +2,7 @@
 
 **Học viên**: Hồ Trần Đình Nguyên — 2A202600080  
 **Ngày nộp**: 2026-05-07  
-**Submission option**: A (lightweight ZIP)
+**Submission option**: B (GitHub link)
 
 ---
 
@@ -58,7 +58,14 @@
 
 ## 3. Loss Curve Analysis
 
-![Loss Curve — Qwen2.5-3B r=16](notebooks/Lab21_LoRA_Finetuning_T4_Llama-3.2-3B-Instruct/loss_curve.png)
+**Qwen2.5-3B:**
+![Loss Curve — Qwen2.5-3B](notebooks/Lab21_LoRA_Finetuning_T4_Qwen2_5_3B/Lab21_LoRA_Finetuning_T4_Qwen2_5_3B/loss_curve.png)
+
+**Llama-3.2-3B-Instruct:**
+![Loss Curve — Llama-3.2-3B-Instruct](notebooks/Lab21_LoRA_Finetuning_T4_Llama-3.2-3B-Instruct/loss_curve.png)
+
+**Gemma-2-2B:**
+![Loss Curve — Gemma-2-2B](notebooks/Lab21_LoRA_Finetuning_T4_Gemma-2-2B/Lab21_LoRA_Finetuning_T4_Gemma-2-2B/loss_curve.png)
 
 **Quan sát chung (T4 mode — chỉ có train loss, không có eval-during-training):**
 

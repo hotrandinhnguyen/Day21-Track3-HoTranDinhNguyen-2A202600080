@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large model files — adapters go to HuggingFace Hub, not GitHub
+*.safetensors
+*.pt
+*.pth
+*.bin
+checkpoint-*/
+
