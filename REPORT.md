@@ -2,7 +2,7 @@
 
 **Học viên**: Hồ Trần Đình Nguyên — 2A202600080  
 **Ngày nộp**: 2026-05-07  
-**Submission option**: B (GitHub link)
+**Submission option**: B (GitHub + HuggingFace Hub)
 
 ---
 
@@ -23,6 +23,11 @@
 | Gemma-2-2B | `unsloth/gemma-2-2b-it-bnb-4bit` |
 
 **Training cost ước tính**: ~0.07 USD/model (~12 phút tổng @ $0.35/hr) → tổng 3 models ≈ $0.21
+
+**HuggingFace Hub adapters**:
+- Qwen2.5-3B r=16: https://huggingface.co/Nguyen11/lab21-qwen2.5-3b-r16
+- Llama-3.2-3B-Instruct r=16: https://huggingface.co/Nguyen11/lab21-llama-3.2-3b-r16
+- Gemma-2-2B r=16: https://huggingface.co/Nguyen11/lab21-gemma-2-2b-r16
 
 ---
 
